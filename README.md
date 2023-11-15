@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, my name is Julia! 👋
 
 <!--
 **jusantana1/jusantana1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
