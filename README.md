@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 </div>
 
 ## Ferramentas e Tecnologias
-
+<!--
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/> <img loading="lazy" scr="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg" width="50" height="50" /> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50" />
           
-            
+-->           
           
